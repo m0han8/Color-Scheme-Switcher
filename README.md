@@ -1,7 +1,9 @@
 Color Scheme Switcher:
+
 A lightweight web application that lets users dynamically change the background color of a webpage by clicking on various color buttons. This project utilizes fundamental web technologies, including HTML, CSS, and JavaScript.
 
 Features:
+
 Dynamic Color Switching: Change the background color of the page by clicking on color buttons.
 Responsive Design: Adapts to different screen sizes using viewport units (vmin).
 Simple and Intuitive: User-friendly interface with clearly labeled buttons.
