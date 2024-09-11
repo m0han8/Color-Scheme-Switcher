@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Sans-Serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#h1 {
+  margin-bottom: 20px;
+}
+
+.box {
+  width: 15vmin;
+  height: 15vmin;
+  margin: 2vmin;
+  border: 0.5vmin solid black;
+  display: inline-block;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+#grey {
+  background-color: grey;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
